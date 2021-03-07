@@ -1,0 +1,29 @@
+{
+  "name": "apisvg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^5.0.0-beta2",
+    "bootstrap-icons": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "http-server": "^0.12.3",
+    "nodemon": "^2.0.7",
+    "pg": "^8.3.3"
+  },
+  "devDependencies": {
+    "express-handlebars": "^5.2.1",
+    "sequelize": "^6.5.0"
+  }
+}

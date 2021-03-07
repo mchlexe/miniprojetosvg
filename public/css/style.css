@@ -1,0 +1,51 @@
+#header {
+    width: 50em;
+    margin: auto;
+    margin-top: 2em;
+}
+
+#logo {
+    width: 100px;
+    height: 150px;
+    float: right;
+}
+
+#estado {
+    fill: white;
+    stroke: #333333;
+    stroke-width: 0.05;
+}
+
+#municipio {
+    fill: lightblue;
+    stroke: slateblue;
+    stroke-width: 0.02;
+}
+
+body {
+    background-color: lightgray;
+    max-width: 70em;
+    margin: auto;
+}
+
+.accordion-button  {
+    background-color: whitesmoke;
+}
+
+.input-group {
+    margin-top: 2em;
+}
+
+.btn-primary {
+    margin-bottom: 2em;
+}
+
+.titulo {
+    font-weight: bold;
+}
+.icone {
+    font-weight: bolder;
+    color: dodgerblue;
+    margin-right: 1em;
+}
+
